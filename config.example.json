@@ -1,0 +1,59 @@
+{
+  "name": "교수 이름",
+  "learner": "배우는 사람 소개 한두 줄 (하는 일, 관심사). 강의 예시와 연결 한 줄을 이 사람에게 맞춘다",
+  "chat_id": null,
+  "time": "08:00",
+  "lesson_minutes": 5,
+  "tone": "교수님처럼 차분하게, 하지만 개인적인 친분이 있는 것처럼 (존댓말)",
+  "korea_sites": [
+    "hani.co.kr",
+    "khan.co.kr",
+    "chosun.com",
+    "joongang.co.kr",
+    "donga.com",
+    "hankookilbo.com",
+    "yna.co.kr",
+    "kbs.co.kr",
+    "imbc.com",
+    "news.sbs.co.kr",
+    "hankyung.com",
+    "mk.co.kr",
+    "sedaily.com"
+  ],
+  "subjects": {
+    "marketing": {
+      "title": "📣 마케팅",
+      "thread_id": null,
+      "style": "사례형",
+      "goal": "내 일에 바로 써먹기",
+      "link_line": "💼 내 일에는",
+      "examples_from": "배우는 사람의 업계 사례"
+    },
+    "ai": {
+      "title": "🤖 AI",
+      "thread_id": null,
+      "style": "커리큘럼형",
+      "goal": "내가 더 잘 이해하고 써먹기",
+      "link_line": "🛠 내 일에 써먹기",
+      "examples_from": "배우는 사람의 실제 업무. 개인정보는 AI에 넣지 않는다"
+    },
+    "economy": {
+      "title": "💰 경제",
+      "thread_id": null,
+      "style": "뉴스 연결형",
+      "goal": "경제 뉴스가 술술 읽히게",
+      "link_line": "🏠 우리 집에는",
+      "examples_from": "이번 주 한국 경제 뉴스",
+      "korea_queries": [
+        "경제",
+        "금리",
+        "부동산",
+        "기준금리 OR 대출금리",
+        "물가 OR 소비자물가",
+        "환율 OR 수출",
+        "경제성장률 OR 경기 전망 OR 고용"
+      ],
+      "korea_keywords": "금리|부동산|집값|전세|청약|대출|물가|환율|세금|연금|예금|적금|주식|코스피|경기|성장률|고용|소비|가계|부채|수출|무역|관세|한국은행|한은|기재부|금융위|예산"
+    }
+  }
+}
